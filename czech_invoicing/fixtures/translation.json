@@ -3,9 +3,9 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2018-12-28 08:10:42.162387", 
+  "modified": "2019-01-05 23:16:54.871807", 
   "name": "e326687062", 
-  "source_name": "Company registration ID", 
+  "source_name": "Company Registration ID", 
   "target_name": "I\u010c"
  }, 
  {
@@ -142,5 +142,23 @@
   "name": "8a78acac9d", 
   "source_name": "Customer's Purchase Order", 
   "target_name": "Objedn\u00e1vka"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-05 23:14:56.458689", 
+  "name": "2d6a3d4065", 
+  "source_name": "Register court record", 
+  "target_name": "Soudn\u00ed z\u00e1pis"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-05 23:15:14.197629", 
+  "name": "b91f1c6b1f", 
+  "source_name": "Registration ID", 
+  "target_name": "I\u010c"
  }
 ]
