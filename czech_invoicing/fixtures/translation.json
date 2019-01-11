@@ -169,5 +169,14 @@
   "name": "707039fd55", 
   "source_name": "Tax Id", 
   "target_name": "DI\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-10 19:48:02.840780", 
+  "name": "88414c963c", 
+  "source_name": "Payment ID", 
+  "target_name": "Variabiln\u00ed symbol"
  }
 ]
