@@ -3,8 +3,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-05 23:16:54.871807", 
-  "name": "e326687062", 
+  "modified": "2019-01-22 10:38:30.188267", 
+  "name": "3a89748731", 
   "source_name": "Company Registration ID", 
   "target_name": "I\u010c"
  }, 
@@ -12,8 +12,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2018-12-29 21:34:10.256333", 
-  "name": "26da0abb7b", 
+  "modified": "2019-01-22 10:38:30.205079", 
+  "name": "7601cb7981", 
   "source_name": "Bank account", 
   "target_name": "Bankovn\u00ed \u00fa\u010det"
  }, 
@@ -21,8 +21,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-04 10:24:33.906008", 
-  "name": "333633cc1f", 
+  "modified": "2019-01-22 10:38:30.207500", 
+  "name": "fa44ee1965", 
   "source_name": "Vat Rate", 
   "target_name": "DPH %"
  }, 
@@ -30,8 +30,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-02 09:33:52.127763", 
-  "name": "37680abadd", 
+  "modified": "2019-01-22 10:38:30.209929", 
+  "name": "3da56c2710", 
   "source_name": "Item", 
   "target_name": "K\u00f3d produktu"
  }, 
@@ -39,8 +39,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-02 09:35:46.881991", 
-  "name": "7942d932d6", 
+  "modified": "2019-01-22 10:38:30.212135", 
+  "name": "48f751b120", 
   "source_name": "Item Name", 
   "target_name": "N\u00e1zev produktu"
  }, 
@@ -48,8 +48,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-02 09:37:21.820383", 
-  "name": "bd4f3442e2", 
+  "modified": "2019-01-22 10:38:30.214384", 
+  "name": "e6d1eec502", 
   "source_name": "Amount", 
   "target_name": "Cena celkem"
  }, 
@@ -57,8 +57,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-02 09:39:12.315556", 
-  "name": "974cc5adaa", 
+  "modified": "2019-01-22 10:38:30.216710", 
+  "name": "7d403ed039", 
   "source_name": "VAT", 
   "target_name": "DPH"
  }, 
@@ -66,8 +66,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-02 11:45:26.394583", 
-  "name": "367e9d0d1f", 
+  "modified": "2019-01-22 10:38:30.219018", 
+  "name": "0d8234e95b", 
   "source_name": "VAT 21%", 
   "target_name": "DPH 21%"
  }, 
@@ -75,8 +75,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-06 00:21:46.990861", 
-  "name": "2d4aa7b052", 
+  "modified": "2019-01-22 10:38:30.221460", 
+  "name": "7be568c30f", 
   "source_name": "Vat Date", 
   "target_name": "Datum zd. pln\u011bn\u00ed"
  }, 
@@ -84,8 +84,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-04 10:26:46.313493", 
-  "name": "24854053c9", 
+  "modified": "2019-01-22 10:38:30.223841", 
+  "name": "96ac21e70d", 
   "source_name": "Payment Due Date", 
   "target_name": "Datum splatnosti"
  }, 
@@ -93,8 +93,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-04 10:32:51.122883", 
-  "name": "43d2e99bbe", 
+  "modified": "2019-01-22 10:38:30.226640", 
+  "name": "9fe1b60803", 
   "source_name": "Made Date", 
   "target_name": "Datum vystaven\u00ed"
  }, 
@@ -102,8 +102,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-04 11:09:52.832745", 
-  "name": "03327f607a", 
+  "modified": "2019-01-22 10:38:30.229024", 
+  "name": "67eefe7672", 
   "source_name": "- VAT_INVOICE", 
   "target_name": " - da\u0148ov\u00fd doklad"
  }, 
@@ -111,8 +111,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "en", 
-  "modified": "2019-01-04 11:13:10.506319", 
-  "name": "4d0174a395", 
+  "modified": "2019-01-22 10:38:30.231388", 
+  "name": "974f4f2cb1", 
   "source_name": "- VAT_INVOICE", 
   "target_name": "<span></span>"
  }, 
@@ -120,8 +120,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-04 16:55:23.465966", 
-  "name": "415192b076", 
+  "modified": "2019-01-22 10:38:30.233744", 
+  "name": "4ee01305c2", 
   "source_name": "Sales_Invoice", 
   "target_name": "Faktura"
  }, 
@@ -129,8 +129,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "en", 
-  "modified": "2019-01-04 16:55:44.836359", 
-  "name": "7277d9cefd", 
+  "modified": "2019-01-22 10:38:30.236102", 
+  "name": "3bee7a868c", 
   "source_name": "Sales_Invoice", 
   "target_name": "Sales Invoice"
  }, 
@@ -138,8 +138,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-04 17:00:56.891758", 
-  "name": "8a78acac9d", 
+  "modified": "2019-01-22 10:38:30.238548", 
+  "name": "9ea43aaf57", 
   "source_name": "Customer's Purchase Order", 
   "target_name": "Objedn\u00e1vka"
  }, 
@@ -147,8 +147,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-05 23:14:56.458689", 
-  "name": "2d6a3d4065", 
+  "modified": "2019-01-22 10:38:30.241153", 
+  "name": "b4694fb7da", 
   "source_name": "Register court record", 
   "target_name": "Soudn\u00ed z\u00e1pis"
  }, 
@@ -156,8 +156,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-05 23:15:14.197629", 
-  "name": "b91f1c6b1f", 
+  "modified": "2019-01-22 10:38:30.243650", 
+  "name": "7ffbafc5d1", 
   "source_name": "Registration ID", 
   "target_name": "I\u010c"
  }, 
@@ -165,8 +165,8 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-06 00:27:34.360727", 
-  "name": "707039fd55", 
+  "modified": "2019-01-22 10:38:30.245902", 
+  "name": "a12241f1e0", 
   "source_name": "Tax Id", 
   "target_name": "DI\u010c"
  }, 
@@ -174,8 +174,728 @@
   "docstatus": 0, 
   "doctype": "Translation", 
   "language": "cs", 
-  "modified": "2019-01-10 19:48:02.840780", 
-  "name": "88414c963c", 
+  "modified": "2019-01-22 10:38:30.248120", 
+  "name": "eca3a5e9b9", 
+  "source_name": "Payment ID", 
+  "target_name": "Variabiln\u00ed symbol"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.235236", 
+  "name": "730acd6f3f", 
+  "source_name": "Company Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.238142", 
+  "name": "7a7d0d8024", 
+  "source_name": "Bank account", 
+  "target_name": "Bankovn\u00ed \u00fa\u010det"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.240842", 
+  "name": "ee6f054156", 
+  "source_name": "Vat Rate", 
+  "target_name": "DPH %"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.243672", 
+  "name": "f70fad8948", 
+  "source_name": "Item", 
+  "target_name": "K\u00f3d produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.246500", 
+  "name": "9427ec2b8e", 
+  "source_name": "Item Name", 
+  "target_name": "N\u00e1zev produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.249219", 
+  "name": "f71282a315", 
+  "source_name": "Amount", 
+  "target_name": "Cena celkem"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.252008", 
+  "name": "7f0b9c0b9d", 
+  "source_name": "VAT", 
+  "target_name": "DPH"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.254682", 
+  "name": "2c081df1e6", 
+  "source_name": "VAT 21%", 
+  "target_name": "DPH 21%"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.257394", 
+  "name": "827c81549d", 
+  "source_name": "Vat Date", 
+  "target_name": "Datum zd. pln\u011bn\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.260248", 
+  "name": "e78c9924c5", 
+  "source_name": "Payment Due Date", 
+  "target_name": "Datum splatnosti"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.262931", 
+  "name": "c6f52b42b1", 
+  "source_name": "Made Date", 
+  "target_name": "Datum vystaven\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.265411", 
+  "name": "3a45a7399e", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": " - da\u0148ov\u00fd doklad"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-01-26 18:35:44.268036", 
+  "name": "09b97b6bf3", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": "<span></span>"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.270591", 
+  "name": "e828538f94", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Faktura"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-01-26 18:35:44.273255", 
+  "name": "c1a4af4a8c", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Sales Invoice"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.276133", 
+  "name": "a94cc290bb", 
+  "source_name": "Customer's Purchase Order", 
+  "target_name": "Objedn\u00e1vka"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.278803", 
+  "name": "45a7e43411", 
+  "source_name": "Register court record", 
+  "target_name": "Soudn\u00ed z\u00e1pis"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.281747", 
+  "name": "31bc9281d3", 
+  "source_name": "Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.284400", 
+  "name": "24a39b0506", 
+  "source_name": "Tax Id", 
+  "target_name": "DI\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-01-26 18:35:44.287025", 
+  "name": "16766b048c", 
+  "source_name": "Payment ID", 
+  "target_name": "Variabiln\u00ed symbol"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.878113", 
+  "name": "d325c72ad6", 
+  "source_name": "Company Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.885873", 
+  "name": "fb6503c966", 
+  "source_name": "Bank account", 
+  "target_name": "Bankovn\u00ed \u00fa\u010det"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.888928", 
+  "name": "65578a2ab5", 
+  "source_name": "Vat Rate", 
+  "target_name": "DPH %"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.891774", 
+  "name": "31b022c9f0", 
+  "source_name": "Item", 
+  "target_name": "K\u00f3d produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.894794", 
+  "name": "fdd236cab0", 
+  "source_name": "Item Name", 
+  "target_name": "N\u00e1zev produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.897789", 
+  "name": "24a5b39c35", 
+  "source_name": "Amount", 
+  "target_name": "Cena celkem"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.900975", 
+  "name": "b133be3ed0", 
+  "source_name": "VAT", 
+  "target_name": "DPH"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.903958", 
+  "name": "b08730b74f", 
+  "source_name": "VAT 21%", 
+  "target_name": "DPH 21%"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.907109", 
+  "name": "e879e8e332", 
+  "source_name": "Vat Date", 
+  "target_name": "Datum zd. pln\u011bn\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.910102", 
+  "name": "2a69bd94fc", 
+  "source_name": "Payment Due Date", 
+  "target_name": "Datum splatnosti"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.912846", 
+  "name": "bfcb2ae3fe", 
+  "source_name": "Made Date", 
+  "target_name": "Datum vystaven\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.915791", 
+  "name": "518bd0acd8", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": " - da\u0148ov\u00fd doklad"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-02-03 16:48:36.918770", 
+  "name": "66ea09be33", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": "<span></span>"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.921718", 
+  "name": "4ba3eecb6e", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Faktura"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-02-03 16:48:36.924857", 
+  "name": "b5114a8742", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Sales Invoice"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.927959", 
+  "name": "965393dd60", 
+  "source_name": "Customer's Purchase Order", 
+  "target_name": "Objedn\u00e1vka"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.930890", 
+  "name": "ad6c5757ce", 
+  "source_name": "Register court record", 
+  "target_name": "Soudn\u00ed z\u00e1pis"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.933882", 
+  "name": "b01bcd5c30", 
+  "source_name": "Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.936843", 
+  "name": "e0a985b65d", 
+  "source_name": "Tax Id", 
+  "target_name": "DI\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-03 16:48:36.939838", 
+  "name": "3dfbe35569", 
+  "source_name": "Payment ID", 
+  "target_name": "Variabiln\u00ed symbol"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.787635", 
+  "name": "452095bd98", 
+  "source_name": "Company Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.801988", 
+  "name": "b17868b1c6", 
+  "source_name": "Bank account", 
+  "target_name": "Bankovn\u00ed \u00fa\u010det"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.806014", 
+  "name": "7686a9084a", 
+  "source_name": "Vat Rate", 
+  "target_name": "DPH %"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.808786", 
+  "name": "fb1516938d", 
+  "source_name": "Item", 
+  "target_name": "K\u00f3d produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.812024", 
+  "name": "d71deb2857", 
+  "source_name": "Item Name", 
+  "target_name": "N\u00e1zev produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.814797", 
+  "name": "02c426af78", 
+  "source_name": "Amount", 
+  "target_name": "Cena celkem"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.817588", 
+  "name": "e66106622b", 
+  "source_name": "VAT", 
+  "target_name": "DPH"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.820394", 
+  "name": "47e236a0d8", 
+  "source_name": "VAT 21%", 
+  "target_name": "DPH 21%"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.823535", 
+  "name": "8509333c6b", 
+  "source_name": "Vat Date", 
+  "target_name": "Datum zd. pln\u011bn\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.827136", 
+  "name": "78bd723f9f", 
+  "source_name": "Payment Due Date", 
+  "target_name": "Datum splatnosti"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.830257", 
+  "name": "27d201914e", 
+  "source_name": "Made Date", 
+  "target_name": "Datum vystaven\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.833604", 
+  "name": "d26453e36a", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": " - da\u0148ov\u00fd doklad"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-02-04 19:37:33.836252", 
+  "name": "1f6a20801d", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": "<span></span>"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.838968", 
+  "name": "bae07f068f", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Faktura"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-02-04 19:37:33.841737", 
+  "name": "ede83abdd5", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Sales Invoice"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.844805", 
+  "name": "53677365cf", 
+  "source_name": "Customer's Purchase Order", 
+  "target_name": "Objedn\u00e1vka"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.847583", 
+  "name": "0138d70cdc", 
+  "source_name": "Register court record", 
+  "target_name": "Soudn\u00ed z\u00e1pis"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.851109", 
+  "name": "9165a67146", 
+  "source_name": "Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.854059", 
+  "name": "2bf3f450ea", 
+  "source_name": "Tax Id", 
+  "target_name": "DI\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 19:37:33.856852", 
+  "name": "e6382852c5", 
+  "source_name": "Payment ID", 
+  "target_name": "Variabiln\u00ed symbol"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.380802", 
+  "name": "c7510154fd", 
+  "source_name": "Company Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.384447", 
+  "name": "1657116169", 
+  "source_name": "Bank account", 
+  "target_name": "Bankovn\u00ed \u00fa\u010det"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.387490", 
+  "name": "72a642180d", 
+  "source_name": "Vat Rate", 
+  "target_name": "DPH %"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.390376", 
+  "name": "1cc83d4632", 
+  "source_name": "Item", 
+  "target_name": "K\u00f3d produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.393284", 
+  "name": "9fab9fccc7", 
+  "source_name": "Item Name", 
+  "target_name": "N\u00e1zev produktu"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.396105", 
+  "name": "4127a4e5dc", 
+  "source_name": "Amount", 
+  "target_name": "Cena celkem"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.398935", 
+  "name": "0c2dcde036", 
+  "source_name": "VAT", 
+  "target_name": "DPH"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.401819", 
+  "name": "cec8877f19", 
+  "source_name": "VAT 21%", 
+  "target_name": "DPH 21%"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.404726", 
+  "name": "734bf79ed5", 
+  "source_name": "Vat Date", 
+  "target_name": "Datum zd. pln\u011bn\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.407721", 
+  "name": "c394523a19", 
+  "source_name": "Payment Due Date", 
+  "target_name": "Datum splatnosti"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.410700", 
+  "name": "25c52d1c0b", 
+  "source_name": "Made Date", 
+  "target_name": "Datum vystaven\u00ed"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.413705", 
+  "name": "a7965810be", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": " - da\u0148ov\u00fd doklad"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-02-04 21:15:08.416588", 
+  "name": "e58ff5dd01", 
+  "source_name": "- VAT_INVOICE", 
+  "target_name": "<span></span>"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.419396", 
+  "name": "3f2d4461b9", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Faktura"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-02-04 21:15:08.422139", 
+  "name": "c6e9a7e2ee", 
+  "source_name": "Sales_Invoice", 
+  "target_name": "Sales Invoice"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.425093", 
+  "name": "6638e87702", 
+  "source_name": "Customer's Purchase Order", 
+  "target_name": "Objedn\u00e1vka"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.428172", 
+  "name": "9258038c12", 
+  "source_name": "Register court record", 
+  "target_name": "Soudn\u00ed z\u00e1pis"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.431076", 
+  "name": "c1e8274d10", 
+  "source_name": "Registration ID", 
+  "target_name": "I\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.434017", 
+  "name": "79768dbc5a", 
+  "source_name": "Tax Id", 
+  "target_name": "DI\u010c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "cs", 
+  "modified": "2019-02-04 21:15:08.436983", 
+  "name": "6bff35a019", 
   "source_name": "Payment ID", 
   "target_name": "Variabiln\u00ed symbol"
  }

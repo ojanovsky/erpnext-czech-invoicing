@@ -3,8 +3,8 @@
   "docstatus": 0, 
   "doctype": "Custom Script", 
   "dt": "Sales Invoice", 
-  "modified": "2019-01-04 14:22:11.003610", 
-  "name": "Sales Invoice Item-Client", 
+  "modified": "2019-02-04 21:15:07.052352", 
+  "name": "Sales Invoice-Client", 
   "script": "frappe.ui.form.on(\"Sales invoice\", {\n\t\"company\": function(frm) {\n\t\tfrm.add_fetch(\"company\", \"logo\", \"company_logo\");\n\t\tconsole.log(\"xxx\"+frm.doc.company_logo);\n\t}\n});\n\nfrappe.ui.form.on(\"Sales Invoice\", \"refresh\", function(frm,page) {\nfrm.add_fetch(\"Company\", \"logo\", \"company_logo\");\nconsole.log(frm.doc.company_logo);\n\n\n\n   $.each(frm.doc.items, function(i, d) {\n    \n    \tif(d.item_tax_rate){\n    \t\tvar txx = JSON.parse(d.item_tax_rate);\n       \t\t\tfor(var key in txx){\n            \t\t\t\n            \t\t\tfrappe.model.set_value(d.doctype, d.name, \"vat_rate\", txx[key]);\n       \t\t\t}\n    \t}\n\t\n\t\n    \n    });\n    console.log(\"YYYYY\");\n    $.each(frm.doc.taxes,function(i,d){\n    \t\n\tvar xd = __('VAT');\n\tfrappe.model.set_value(d.doctype, d.name, \"description\",d.description.replace(\"VAT\",\"&nbsp;&nbsp;&nbsp;\"));\n    });\n\n});\n\n/* nastavi cestinu do faktury */\n/*frappe.ui.form.on(\"Sales Invoice\", \"validate\", function(frm) {\n   console.log(\"submit\");\nvar lng = frm.doc.language;\nif(lng!=\"cs\") {\n     frm.set_value(\"language\", \"cs\");\n\n}\n\n})*/", 
   "script_type": "Client"
  }
