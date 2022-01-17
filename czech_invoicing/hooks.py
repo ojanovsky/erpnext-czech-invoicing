@@ -10,7 +10,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "ondrej.janovsky@alarex.cz"
 app_license = "MIT"
-fixtures = ["Custom Field", "Client Script", "Translation", "Customize Form", "Property Setter", {
+fixtures = ["Custom Field", "Client Script", "Translation", "Property Setter", {
 	"doctype": "Print Format",
 	"filters":	{
 		"name": ["in", "czech invoice"]
