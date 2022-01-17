@@ -1,7 +1,7 @@
 [
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Issue", 
   "modified": "2019-05-12 14:00:08.306003", 
   "name": "Issue-Client", 
@@ -10,7 +10,7 @@
  }, 
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Sales Invoice", 
   "modified": "2019-02-04 21:15:07.052352", 
   "name": "Sales Invoice-Client", 
